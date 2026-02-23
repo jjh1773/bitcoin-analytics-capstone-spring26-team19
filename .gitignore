@@ -221,3 +221,5 @@ tmp_capstone_data/
 *.jpeg
 *.gif
 *.webp
+
+!eda/figures/*.png
