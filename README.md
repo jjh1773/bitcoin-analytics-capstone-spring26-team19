@@ -24,6 +24,19 @@ This repository provides a template and framework for:
 3.  **Strategy Development** for daily purchase schedules (dynamic DCA).
 4.  **Backtesting & Evaluation** against uniform DCA benchmarks.
 
+---
+
+## 🚀 Key Discovery: The Polymarket Edge
+
+Our research identifies a statistically significant **5-10 day lead time** between Polymarket sentiment (trading volume and market creation) and Bitcoin price action. 
+
+### **Strategic Results (Hybrid Model vs Baseline)**
+- **Win Rate:** 60.3%
+- **Mean Improvement:** +16.8% Sats Per Dollar
+- **Full Report:** [EDA_Executive_Final.ipynb](file:///Users/jihye/Desktop/OMSA/Practicum/bitcoin-analytics-capstone-template/eda/EDA_Executive_Final.ipynb)
+- **Summary:** [Final_Backtest_Results.md](file:///Users/jihye/Desktop/OMSA/Practicum/bitcoin-analytics-capstone-template/output/Final_Backtest_Results.md)
+
+
 ### Repository Structure
 
 ```text
